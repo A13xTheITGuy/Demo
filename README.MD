@@ -5,3 +5,4 @@ Some text
 ## Local development
 
 1. Open index.html
+2. Open anything else.
